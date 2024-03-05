@@ -1,6 +1,6 @@
 # Photo Gallery App
 
-A simple and responsive web application that allows users to upload, browse, and manage their photo collection. Built using modern web technologies like React, Node.js, and MongoDB.
+A simple and responsive web application that allows users to upload, browse, and manage their photo collection. Built using modern web technologies like React,CSS and Firebase.
 
 ## Features
 
